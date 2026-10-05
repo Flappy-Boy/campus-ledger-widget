@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f2f4f7;
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
+  color: #303133;
+}
+
+.page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+}
+
+.section-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 16px;
+}
+
+.balance-value {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.text-income {
+  color: #67c23a;
+}
+
+.text-expense {
+  color: #f56c6c;
+}

@@ -1,0 +1,26 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.spec
+
+# ---- 前端 ----
+node_modules/
+frontend/dist/
+
+# ---- 构建产物 ----
+build/
+
+# ---- 本地数据（每个人的账本是私人的，不要提交）----
+*.db
+*.sqlite3
+
+# ---- 前端构建输出（由 build.py / npm run build 重新生成）----
+backend/static/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
