@@ -24,3 +24,6 @@ backend/static/
 .idea/
 Thumbs.db
 desktop.ini
+
+# ---- 个人迭代记录（只保留在本地，不提交到仓库）----
+迭代记录.md
